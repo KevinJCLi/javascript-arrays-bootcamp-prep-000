@@ -1,0 +1,1 @@
+var chocolateBars = [snickers, hudnred grand, kitkat, skittles]
