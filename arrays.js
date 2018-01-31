@@ -34,3 +34,19 @@ function removeElementFromBeginningOfArray (array) {
   return newArray;
 }
 
+function destructivelyRemoveElementFromEndOfArray (array) {
+  array.pop();
+  return array;
+}
+
+function removeElementFromEndOfArray (array) {
+  var newArray = array.slice(0,array.length - 1);
+  return newArray;
+}
+
+
+
+
+
+
+
